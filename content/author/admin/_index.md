@@ -23,7 +23,7 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
+  "Abaqus Anlysis",
   "Computational Linguistics",
   "Information Retrieval"
 ]
@@ -34,8 +34,8 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Structural Engineering"
+  institution = "Tongji University"
   year = 2012
 
 [[education.courses]]
@@ -56,7 +56,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:ydc1111@tongji.edu.cn".
 
 [[social]]
   icon = "twitter"
