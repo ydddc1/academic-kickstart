@@ -13,7 +13,7 @@ role = "PHD student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "TJ University", url = "" } ]
+organizations = [ { name = "Tongji University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -39,9 +39,9 @@ user_groups = ["Researchers", "Visitors"]
   year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Civil Engineering"
+  institution = "Tongji University"
+  year = 2011
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
