@@ -36,7 +36,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Structural Engineering"
   institution = "Tongji University"
-  year = 2012
+  year = 2015
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
